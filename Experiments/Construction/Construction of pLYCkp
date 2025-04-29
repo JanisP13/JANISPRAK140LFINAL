@@ -1,6 +1,6 @@
 PCR kpF kpR CP182887 pcrkp
 PCR backF backR pLYC72I back72I
-GoldenGate pcrkp backkp BsaI ggkp
+GoldenGate pcrkp back72I BsaI ggkp
 Transform ggkp Mach1 Amp 37 pLYCkp
 
 Oligo kpF agctaGGTCTCaTACTcggtattgccgtcgcgacataac
