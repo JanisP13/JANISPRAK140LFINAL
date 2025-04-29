@@ -1,1 +1,9 @@
+PCR kpF kpR CP182887 pcrkp
+PCR BkpF BkpR pLYC72I backkp
+GoldenGate pcrkp backkp BsaI ggkp
+Transform ggkp Mach1 Amp 37 pLYCkp
 
+Oligo kpF agctaGGTCTCaTACTcggtattgccgtcgcgacataac
+Oligo kpR atggcGGTCTCtAAGCccagggtcgggtatttggc
+Oligo BkpF 
+Oligo BkpR 
