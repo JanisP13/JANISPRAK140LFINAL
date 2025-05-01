@@ -24,7 +24,8 @@ A search into literature revealed the active site and I-VII conserved regions in
 
 **Synthetic Biology and FPPS**
 
-Use of synthetic DNA primers for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS gives FPP which is 15 carbons long as the longest product, but mutations at this site can extend that length.
+Synthetic DNA primers were used for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS with tyrosine in that gives FPP which is 15 carbons long as the longest product, but mutations at this site can extend that length.
+- Longest product: a small ratio of 30 carbon long hexaprenyl diphosphate(HPP) when tyr was mutated to ala, gly, or ser. Higher concentrations of HPP with ala or gly, but the major product was geranylfarnesyl diphosphate(GFPP), effectively changing the enzyme into a GFPP synthase.
 - 
 
 **Selection of the Orthologs**
