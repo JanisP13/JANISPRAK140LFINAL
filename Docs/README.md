@@ -22,6 +22,10 @@ A search into literature revealed the active site and I-VII conserved regions in
 
 *D  = Asp and X = any amino acid
 
+**Synthetic Biology and FPPS**
+
+Use of synthetic DNA primers for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS gives FPP which is 15 carbons long as the longest product, but mutations at this site can extend that length.
+- 
 
 **Selection of the Orthologs**
 
@@ -49,3 +53,5 @@ References
 Furubayashi, Maiko, et al. “A High-Throughput Colorimetric Screening Assay for     Terpene Synthase Activity Based on Substrate Consumption.” PLoS ONE, vol. 9, no. 3, 28 Mar. 2014, doi:10.1371/journal.pone.0093317. 
 
 Szkopińska, Anna, and Danuta Płochocka. “Farnesyl Diphosphate Synthase; Regulation of Product Specificity.” Acta Biochimica Polonica, vol. 52, no. 1, 31 Mar. 2005, pp. 45–55, doi:10.18388/abp.2005_3485.
+
+Ohnuma, Shin-ichi, et al. “A Role of the Amino Acid Residue Located on the Fifth Position before the First Aspartate-Rich Motif of Farnesyl Diphosphate Synthase on Determination of the Final Product.” Journal of Biological Chemistry, vol. 271, no. 48, Nov. 1996, pp. 30748–30754, doi:10.1074/jbc.271.48.30748. 
