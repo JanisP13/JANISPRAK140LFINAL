@@ -56,8 +56,16 @@ A phylogenetic tree was made using species names and NCBI, and four of the least
 - _Pantoea agglomerans_
 - _Klebsiella pneumoniae_
 
+while Ohnuma, Shin-ichi, et al. showed that, _Bacillus stearothermophilus_ FPPS synthase with mutations at fifth before FARM were thermo stable at high temps, the range of temps in these orgs could mean their FPPSs are better adapted to those temperatures, due to other mutations. could be worth looking into for biotechnological purposes.
+
+saw that these orgs have different niches and found that they can inhabit different temps. 
+s
+scratch the temp thing
+
 All had conserved FARM and SARM regions.
 do conserved domain search on these four and see if they have the FQ, lysine. then check for the four most important mutations in the directed evo paper.
+
+
 
 **<h2>References</h2>**
 
