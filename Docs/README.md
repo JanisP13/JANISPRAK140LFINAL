@@ -11,7 +11,7 @@ FPPS is responsible for the condensation of dimethylallyl diphosphate(DMAPP) iso
 <img width="618" alt="Image" src="https://github.com/user-attachments/assets/5ea80372-d386-4e2b-a2fc-984ca8354c66" /> The lycopene production pathway (Furubayashi, Maiko, et al.).
 
 
-**<h3>FPPS structural biochemistry</h3>**
+**<h2>FPPS structural biochemistry</h2>**
 
 A search into literature revealed the active site and I-VII conserved regions in FPPS structure that correlate with the efficiency of the enzyme(Szkopińska, Anna, and Danuta Płochocka.). Here are some notable regions that effect FPPS catalysis:
 - First aspartic rich motif(FARM): DDXX(XX)D, located in region II, faces SARM in active pocket, binds DMAPP, GPP, or FPP, mutation results in severe loss in catalytic activity.
@@ -23,7 +23,7 @@ A search into literature revealed the active site and I-VII conserved regions in
 *D  = Asp and X = any amino acid
 
 
-**<h3>FPPS and Biochemical Discoveries using Synthetic Biology</h3>**
+**<h2>FPPS and Biochemical Discoveries using Synthetic Biology</h2>**
 
 Synthetic DNA primers were used for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS with tyrosine in that gives FPP which is 15 carbons long as the longest product, but mutations at this site can change product specificity and extend that length. The control of this length could be desireble for industrial or biotechnical uses. 
 - Longest product: a small ratio of 30 carbon long hexaprenyl diphosphate(HPP) when Tyr was mutated to Ala, Gly, or Ser. Higher concentrations of HPP with Ala or Gly, but the major product was 25 carbon geranylfarnesyl diphosphate(GFPP), effectively changing the enzyme into a GFPP synthase. *Note that HPP is two additions of IPP too many if the goal is to make lycopene or other caratenoids, as 20 carbon geranylgeranyl diphosphate(GGPP) is the intermediate that can diverge to lycopene. 
@@ -38,7 +38,7 @@ Directed evolution: Error prone PCR was used to create ispA gene library and tho
 - It should be noted that there was a pattern of mutations observed accross the selected mutants located near the FARM region. 
  
 
-**<h3>Returning to our Project: Selection of the Orthologs</h3>**
+**<h2>Returning to our Project: Selection of the Orthologs</h2>**
 
 Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
 - _Pectobacterium carotovorum_
@@ -59,7 +59,7 @@ A phylogenetic tree was made using species names and NCBI, and four of the least
 All had conserved FARM and SARM regions.
 
 
-**<h3>References</h3>**
+**<h2>References</h2>**
 
 Furubayashi, Maiko, et al. “A High-Throughput Colorimetric Screening Assay for     Terpene Synthase Activity Based on Substrate Consumption.” PLoS ONE, vol. 9, no. 3, 28 Mar. 2014, doi:10.1371/journal.pone.0093317. 
 
