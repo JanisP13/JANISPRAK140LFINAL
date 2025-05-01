@@ -57,7 +57,7 @@ A phylogenetic tree was made using species names and NCBI, and four of the least
 - _Klebsiella pneumoniae_
 
 All had conserved FARM and SARM regions.
-
+do conserved domain search on these four and see if they have the FQ, lysine. then check for the four most important mutations in the directed evo paper.
 
 **<h2>References</h2>**
 
