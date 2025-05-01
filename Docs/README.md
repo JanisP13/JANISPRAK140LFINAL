@@ -1,4 +1,4 @@
-lycopene34: Ortholog scan of ispA in pLYC72I 
+**lycopene34: Ortholog scan of ispA in pLYC72I **
 
 What the project is about
 The biology and context of the ispA gene
@@ -11,9 +11,11 @@ FPPS is responsible for the condensation of dimethylallyl diphosphate(DMAPP) iso
 <img width="618" alt="Image" src="https://github.com/user-attachments/assets/5ea80372-d386-4e2b-a2fc-984ca8354c66" /> The lycopene production pathway (Furubayashi, Maiko, et al.).
 
 **FPPS structural biochemistry**
+
 A search into literature revealed 
 
 **Selection of the Orthologs**
+
 Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
 - _Pectobacterium carotovorum_
 - _Yersinia kristensenii_
