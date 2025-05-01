@@ -10,10 +10,10 @@ The goal of this project is to do an ortholog scan of the ispA gene from the lyc
 FPPS is responsible for the condensation of dimethylallyl diphosphate(DMAPP) isopentenyl diphosphate(IPP) to make geranyl diphosphate(GPP), as well as the addition of another IPP to GPP to make farnesyl diphosphate(FPP). 
 <img width="618" alt="Image" src="https://github.com/user-attachments/assets/5ea80372-d386-4e2b-a2fc-984ca8354c66" /> The lycopene production pathway (Furubayashi, Maiko, et al.).
 
-#FPPS structural biochemistry
+**FPPS structural biochemistry**
 A search into literature revealed 
 
-#Selection of the Orthologs
+**Selection of the Orthologs**
 Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
 - _Pectobacterium carotovorum_
 - _Yersinia kristensenii_
