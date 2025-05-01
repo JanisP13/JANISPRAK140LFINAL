@@ -10,21 +10,26 @@ The goal of this project is to do an ortholog scan of the ispA gene from the lyc
 FPPS is responsible for the condensation of dimethylallyl diphosphate(DMAPP) isopentenyl diphosphate(IPP) to make geranyl diphosphate(GPP), as well as the addition of another IPP to GPP to make farnesyl diphosphate(FPP). 
 <img width="618" alt="Image" src="https://github.com/user-attachments/assets/5ea80372-d386-4e2b-a2fc-984ca8354c66" /> The lycopene production pathway (Furubayashi, Maiko, et al.).
 
-Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
-- Pectobacterium carotovorum
-- Yersinia kristensenii
-- Pantoea agglomerans
-- Klebsiella pneumoniae
-- Brenneria roseae
-- Atlantibacter subterranea
-- Cronobacter dublinensis
-- Buttiauxella brennerae
+#FPPS structural biochemistry
+A search into literature revealed 
 
-A phylogenetic tree was made by entering species names into NCBI, and four of the least related, with each coming from different families, but all from the order _Enterobacterales_ were chosen.
-- Pectobacterium carotovorum
-- Yersinia kristensenii
-- Pantoea agglomerans
-- Klebsiella pneumoniae
+#Selection of the Orthologs
+Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
+- _Pectobacterium carotovorum_
+- _Yersinia kristensenii_
+- _Pantoea agglomerans_
+- _Klebsiella pneumoniae_
+- _Brenneria roseae_
+- _Atlantibacter subterranea_
+- _Cronobacter dublinensis_
+- _Buttiauxella brennerae_
+
+A phylogenetic tree was made using species names and NCBI, and four of the least related, with each coming from different families, but all from the order _Enterobacterales_, were chosen.
+- _Pectobacterium carotovorum_
+- _Yersinia kristensenii_
+- _Pantoea agglomerans_
+- _Klebsiella pneumoniae_
+
 
 
 
