@@ -1,4 +1,4 @@
-##**lycopene34: Ortholog scan of ispA in pLYC72I**
+##**lycopene34: Ortholog scan of ispA in pLYC72I**##
 
 What the project is about
 The biology and context of the ispA gene
