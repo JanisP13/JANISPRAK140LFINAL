@@ -25,13 +25,13 @@ A search into literature revealed the active site and I-VII conserved regions in
 
 **<h2>FPPS and Biochemical Discoveries using Synthetic Biology</h2>**
 
-1. Synthetic DNA primers were used for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS with tyrosine in that gives FPP which is 15 carbons long as the longest product, but mutations at this site can change product specificity and extend that length. The control of this length could be desireble for industrial or biotechnical uses. 
+In one study, synthetic DNA primers were used for **site directed mutagenesis** at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS with tyrosine in that gives FPP which is 15 carbons long as the longest product, but mutations at this site can change product specificity and extend that length. The control of this length could be desireble for industrial or biotechnical uses. 
 - Longest product: a small ratio of 30 carbon long hexaprenyl diphosphate(HPP) when Tyr was mutated to Ala, Gly, or Ser. Higher concentrations of HPP with Ala or Gly, but the major product was 25 carbon geranylfarnesyl diphosphate(GFPP), effectively changing the enzyme into a GFPP synthase. *Note that HPP is two additions of IPP too many if the goal is to make lycopene or other caratenoids, as 20 carbon geranylgeranyl diphosphate(GGPP) is the intermediate that can diverge to lycopene. 
 - Mutation to His also created GFPP as a major product, but Cys, Ile, Leu, Asn, Thr, Val, Asp, Glu, Phe, Lys, Met, Gln, and Arg all formed GGPP.
 - Trp did not seem to change product specificity.
 
 
-2. Directed evolution: Error prone PCR was used to create ispA gene library and those with a red phenotype(meaning carotenoids were produced) were sequenced to identify unique mutations and analyzed by HPLC and LCMS(Lee, Pyung Cheon, et al.). 
+In another study, error prone PCR was used to create ispA gene library for **directed evolution**, and those with a red phenotype(meaning carotenoids were produced) were sequenced to identify unique mutations and analyzed by HPLC and LCMS(Lee, Pyung Cheon, et al.). 
 - In vivo, the selected mutants all produced caratenoids, lycopene and tetradehydrolycopene, similarly to crtE gene, the natural enzyme that creates GGPP. This evidence strengthens the argument that ispA mutants are major producers of GGPP, a major intermediate to caratenoid biosynthesis.
 - In vitro, two chosen mutants produced GGPP or a mixture of FPP and GGPP, but in combination with the in vivo results, both should be adequately producing caratenoids.
 - In vivo, WT ispA expectedly did not produce a significant amount of caratenoids because it is naturally unable to create a 20 carbon chain, this fact strengthened by evidence from in vitro where only FPP was detected.
