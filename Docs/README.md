@@ -17,7 +17,7 @@ A search into literature revealed the active site and I-VII conserved regions in
 - First aspartic rich motif(FARM): DDXX(XX)D, located in region II, faces SARM in active pocket, binds DMAPP, GPP, or FPP, mutation results in severe loss in catalytic activity.
 - Second aspartic rich motif(SARM): DDXXD, located in region VI, faces FARM in active pocket, binds IPP, mutation results in severe loss in catalytic activity.
 - FQ located 4bp upstream of SARM: properly positions DMAPP or GPP for condensation with IPP, mutations result in 1,000-100,000 fold decrease in catalytic activity.
-- Lysine in region I: aids binding of IPP, mutations result in decrease of catalytic activity. 
+- Lysine in region I and V: aids binding of IPP, mutations result in decrease of catalytic activity. 
 - Fourth and fifth postion before FARM: effects the chain length determination of the product due to its position at the "bottom" of the active pocket.
 
 *D  = Asp and X = any amino acid
