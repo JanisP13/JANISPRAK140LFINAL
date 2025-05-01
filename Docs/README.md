@@ -1,11 +1,11 @@
-**<h1>lycopene34: Ortholog scan of ispA in pLYC72I</h1>**
+**<h1>lycopene34: Ortholog scan of _ispA_ in pLYC72I</h1>**
 
 What the project is about
 The biology and context of the ispA gene
 Why you chose your orthologs (biochemical rationale, functional hypotheses, etc.)
 Any literature you consulted
 
-The goal of this project is to do an ortholog scan of the ispA gene from the lycopene-producing plasmid pLYC72I and create the necessary files to insert the orthologs found into pLYC72I. The ispA gene encodes the enzyme farnesyl diphosphate synthase(FPPS), which is essential in the MEP isoprenoid biosynthetic pathway. This pathway leads to the production of biomolecules that are very important for survival, like cholesterol for lipid membrane structure, ubiqionones for cellular respiration, or caratenoids like our lycopene.
+The goal of this project is to do an ortholog scan of the _ispA_ gene from the lycopene-producing plasmid pLYC72I and create the necessary files to insert the orthologs found into pLYC72I. The ispA gene encodes the enzyme farnesyl diphosphate synthase(FPPS), which is essential in the MEP isoprenoid biosynthetic pathway. This pathway leads to the production of biomolecules that are very important for survival, like cholesterol for lipid membrane structure, ubiqionones for cellular respiration, or caratenoids like our lycopene.
   
 FPPS is responsible for the condensation of dimethylallyl diphosphate(DMAPP) isopentenyl diphosphate(IPP) to make geranyl diphosphate(GPP), as well as the addition of another IPP to GPP to make farnesyl diphosphate(FPP). 
 <img width="618" alt="Image" src="https://github.com/user-attachments/assets/5ea80372-d386-4e2b-a2fc-984ca8354c66" /> The lycopene production pathway (Furubayashi, Maiko, et al.).
@@ -34,7 +34,7 @@ In one study, synthetic DNA primers were used for **site directed mutagenesis** 
 In another study, error prone PCR was used to create ispA gene library for **directed evolution**, and those with a red phenotype(meaning carotenoids were produced) were sequenced to identify unique mutations and analyzed by HPLC and LCMS(Lee, Pyung Cheon, et al.). 
 - In vivo, the selected mutants all produced caratenoids, lycopene and tetradehydrolycopene, similarly to crtE gene, the natural enzyme that creates GGPP. This evidence strengthens the argument that ispA mutants are major producers of GGPP, a major intermediate to caratenoid biosynthesis.
 - In vitro, two chosen mutants produced GGPP or a mixture of FPP and GGPP, but in combination with the in vivo results, both should be adequately producing caratenoids.
-- In vivo, WT ispA expectedly did not produce a significant amount of caratenoids because it is naturally unable to create a 20 carbon chain, this fact strengthened by evidence from in vitro where only FPP was detected.
+- In vivo, WT _ispA_ expectedly did not produce a significant amount of caratenoids because it is naturally unable to create a 20 carbon chain, this fact strengthened by evidence from in vitro where only FPP was detected.
 - It should be noted that there was a pattern of mutations observed accross the selected mutants located near the FARM region. 
  
 
