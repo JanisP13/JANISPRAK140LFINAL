@@ -18,13 +18,14 @@ _- Pectobacterium carotovorum
 - Brenneria roseae
 - Atlantibacter subterranea
 - Cronobacter dublinensis
-- Buttiauxella brennerae_
+- Buttiauxella brennerae
 
 A phylogenetic tree was made by entering species names into NCBI, and four of the least related, with each coming from different families, but all from the order _Enterobacterales_ were chosen.
+
 _- Pectobacterium carotovorum
 - Yersinia kristensenii
 - Pantoea agglomerans
-- Klebsiella pneumoniae_
+- Klebsiella pneumoniae
 
 
 
