@@ -24,7 +24,7 @@ A search into literature revealed the active site and I-VII conserved regions in
 
 **Synthetic Biology and FPPS**
 
-Use of synthetic DNA primers for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS gives FPP which is 15 carbons long as the longest product, but mutations at this site can extend that length.
+**Use of synthetic DNA primers for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS gives FPP which is 15 carbons long as the longest product, but mutations at this site can extend that length.**
 - 
 
 **Selection of the Orthologs**
