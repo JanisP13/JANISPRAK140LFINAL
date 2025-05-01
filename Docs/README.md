@@ -23,7 +23,7 @@ A search into literature revealed the active site and I-VII conserved regions in
 *D  = Asp and X = any amino acid
 
 
-**Synthetic Biology and FPPS**
+**FPPS and Biochemical Discoveries using Synthetic Biology**
 
 Synthetic DNA primers were used for site directed mutagenesis at fifth amino acid before FARM to make every amino acid mutation at that position(Ohnuma, Shin-ichi, et al.). WT FPPS with tyrosine in that gives FPP which is 15 carbons long as the longest product, but mutations at this site can change product specificity and extend that length. This could be desireble for industrial or biotechnical use.
 - Longest product: a small ratio of 30 carbon long hexaprenyl diphosphate(HPP) when Tyr was mutated to Ala, Gly, or Ser. Higher concentrations of HPP with Ala or Gly, but the major product was 25 carbon geranylfarnesyl diphosphate(GFPP), effectively changing the enzyme into a GFPP synthase. *Note that HPP is two additions of IPP too many if the goal is to make lycopene or other caratenoids, as 20 carbon geranylgeranyl diphosphate(GGPP) is the intermediate that can diverge to lycopene. 
@@ -38,7 +38,7 @@ Directed evolution: Error prone PCR was used to create ispA gene library and tho
 - It should be noted that there was a pattern of mutations observed accross the selected mutants located near the FARM region. 
 
 
-**Selection of the Orthologs**
+**Returning to our Project: Selection of the Orthologs**
 
 Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
 - _Pectobacterium carotovorum_
@@ -56,7 +56,7 @@ A phylogenetic tree was made using species names and NCBI, and four of the least
 - _Pantoea agglomerans_
 - _Klebsiella pneumoniae_
 
-
+All had conserved FARM and SARM regions.
 
 
 References
