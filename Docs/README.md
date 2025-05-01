@@ -11,7 +11,7 @@ FPPS is responsible for the condensation of dimethylallyl diphosphate(DMAPP) iso
 <img width="618" alt="Image" src="https://github.com/user-attachments/assets/5ea80372-d386-4e2b-a2fc-984ca8354c66" /> The lycopene production pathway (Furubayashi, Maiko, et al.).
 
 Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
-- _Pectobacterium carotovorum
+_- Pectobacterium carotovorum
 - Yersinia kristensenii
 - Pantoea agglomerans
 - Klebsiella pneumoniae
@@ -21,7 +21,7 @@ Eight initial orthologs were chosen that had from 70% to 80% sequence similarity
 - Buttiauxella brennerae_
 
 A phylogenetic tree was made by entering species names into NCBI, and four of the least related, with each coming from different families, but all from the order _Enterobacterales_ were chosen.
-- _Pectobacterium carotovorum
+_- Pectobacterium carotovorum
 - Yersinia kristensenii
 - Pantoea agglomerans
 - Klebsiella pneumoniae_
