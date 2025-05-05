@@ -1,6 +1,8 @@
-Oligo kpF agctaGGTCTCaTACTcggtattgccgtcgcgacataac
-Oligo kpR atggcGGTCTCtAAGCccagggtcgggtatttggc
-Oligo backF gttgcGGTCTCaGCTTGATGACGGCAGCCCTACTA
-Oligo backR cattgGGTCTCtAGTACCAGTCAATTTCCGAGTAGG
-Oligo ykF agctaGGTCTCaTACTccctttcactccagatactg
-Oligo ykR atggcGGTCTCtAAGCcacggactgccagtatagtt
+Oligo kpF agctaGGTCTCaTACTcggtattgccgtcgcgacataac 25nm STD
+Oligo kpR atggcGGTCTCtAAGCccagggtcgggtatttggc 25nm STD
+
+Oligo backF gttgcGGTCTCaGCTTGATGACGGCAGCCCTACTA 25nm STD
+Oligo backR cattgGGTCTCtAGTACCAGTCAATTTCCGAGTAGG 25nm STD
+
+Oligo ykF agctaGGTCTCaTACTccctttcactccagatactg 25nm STD
+Oligo ykR atggcGGTCTCtAAGCcacggactgccagtatagtt 25nm STD
