@@ -40,7 +40,7 @@ In another study, error prone PCR was used to create ispA gene library for **dir
 
 **<h2>Returning to our Project: Selection of the Orthologs</h2>**
 
-Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene:
+Eight initial orthologs were chosen that had from 70% to 80% sequence similarity to the original ispA gene for greater sequence variation:
 - _Pectobacterium carotovorum_
 - _Yersinia kristensenii_
 - _Pantoea agglomerans_
@@ -51,10 +51,12 @@ Eight initial orthologs were chosen that had from 70% to 80% sequence similarity
 - _Buttiauxella brennerae_
 
 A phylogenetic tree was made using species names and NCBI, and four of the least related, with each coming from different families, but all from the order _Enterobacterales_, were chosen.
-- _Pectobacterium carotovorum_
-- _Yersinia kristensenii_
-- _Pantoea agglomerans_
-- _Klebsiella pneumoniae_
+- _Pectobacterium carotovorum_: Contained internal BsaI site, so removeSite in C6 tools was used to modify.
+- _Yersinia kristensenii_: No internal BsaI site, so PCR was done directly from genomic DNA
+- _Pantoea agglomerans_: No internal BsaI site, so PCR was done directly from genomic DNA
+- _Klebsiella pneumoniae_: Contained internal BsaI site, so removeSite in C6 tools was used to modify.
+
+All orthologs were inserted into plasmid pLYC72I using Golden Gate assembly, and them were transformed into Mach1 strain of _E. coli_.
 
 while Ohnuma, Shin-ichi, et al. showed that, _Bacillus stearothermophilus_ FPPS synthase with mutations at fifth before FARM were thermo stable at high temps, the range of temps in these orgs could mean their FPPSs are better adapted to those temperatures, due to other mutations. could be worth looking into for biotechnological purposes.
 
