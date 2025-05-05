@@ -60,31 +60,28 @@ All orthologs were inserted into plasmid pLYC72I using Golden Gate assembly, and
 
 **<h2>Constructs</h2>**
 - pLYCpc: _P. carotovorum_ ispA, inserted via gBlock
-- pLYCyk: _Y. Kristensenii_ ispA, inserted via PCR
+- pLYCyk: _Y. kristensenii_ ispA, inserted via PCR
 - pLYCpa: _P. agglomerans_ ispA, inserted via gBlock
 - pLYCkp: _K. pneumoniae_ ispA, inserted via PCR
 
+After further investigation of the sequences, it was found that they all had the same FARM(DDLPAMDDDD), SARM(DILD), Tyrosine residue (5bp upstream of FARM) and FQ(4bp upstream of the SARM) sequences conserved, strongly suggesting that the resulting protein for each sequence are functional FPP synthases.
 
-while Ohnuma, Shin-ichi, et al. showed that, _Bacillus stearothermophilus_ FPPS synthase with mutations at fifth before FARM were thermo stable at high temps, the range of temps in these orgs could mean their FPPSs are better adapted to those temperatures, due to other mutations. could be worth looking into for biotechnological purposes.
-
-saw that these orgs have different niches and found that they can inhabit different temps. 
-s
-scratch the temp thing
-
-All had conserved FARM and SARM regions.
-do conserved domain search on these four and see if they have the FQ, lysine. then check for the four most important mutations in the directed evo paper.
-
+Also, it could be worth mentioning the natural temperature differences in the four organisms' natural environment. For example, _K. pneumoniae_ is pathogenic in the human body which is 37 degrees C, showing favor to higher temperatures, and _Y. kristensenii_ is found almost strictly in cold enrichments(Kontiainen, Sirkka, et al.). Ohnuma, Shin-ichi, et al. showed that, _Bacillus stearothermophilus_ FPPS synthase with mutations at fifth before FARM were all thermostable, but organisms could have FPP synthases could have other subtle mutation that are optimized to their preferred temperatures, which could have implications in biotechnological and pharmaceutical settings. 
 
 
 **<h2>References</h2>**
 
 Furubayashi, Maiko, et al. “A High-Throughput Colorimetric Screening Assay for     Terpene Synthase Activity Based on Substrate Consumption.” PLoS ONE, vol. 9, no. 3, 28 Mar. 2014, doi:10.1371/journal.pone.0093317. 
 
+Kontiainen, Sirkka, et al. “Increased Yields of Pathogenic Yersinia Enterocolitica Strains by Cold Enrichment.” Scandinavian Journal of Infectious Diseases, vol. 26, no. 6, Jan. 1994, pp. 685–691, doi:10.3109/00365549409008636.
+
 Lee, Pyung Cheon, et al. “Directed Evolution of Escherichia Coli Farnesyl Diphosphate Synthase (ISPA) Reveals Novel Structural Determinants of Chain Length Specificity.” Metabolic Engineering, vol. 7, no. 1, Jan. 2005, pp. 18–26, doi:10.1016/j.ymben.2004.05.003. 
 
 Ohnuma, Shin-ichi, et al. “A Role of the Amino Acid Residue Located on the Fifth Position before the First Aspartate-Rich Motif of Farnesyl Diphosphate Synthase on Determination of the Final Product.” Journal of Biological Chemistry, vol. 271, no. 48, Nov. 1996, pp. 30748–30754, doi:10.1074/jbc.271.48.30748. 
 
 Szkopińska, Anna, and Danuta Płochocka. “Farnesyl Diphosphate Synthase; Regulation of Product Specificity.” Acta Biochimica Polonica, vol. 52, no. 1, 31 Mar. 2005, pp. 45–55, doi:10.18388/abp.2005_3485.
+
+
 
 
 
