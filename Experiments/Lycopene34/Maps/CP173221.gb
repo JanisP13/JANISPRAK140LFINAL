@@ -1,0 +1,175 @@
+LOCUS       CP173221                1701 bp    DNA     linear   BCT 13-NOV-2024
+DEFINITION  Yersinia kristensenii strain SCPM-O-B-3981 (692) chromosome,
+            complete genome.
+ACCESSION   CP173221 REGION: 3261800..3263500
+VERSION     CP173221.1
+DBLINK      BioProject: PRJNA269675
+            BioSample: SAMN44482131
+KEYWORDS    .
+SOURCE      Yersinia kristensenii
+  ORGANISM  Yersinia kristensenii
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Yersiniaceae; Yersinia.
+REFERENCE   1  (bases 1 to 1701)
+  AUTHORS   Sizova,A., Kislichkina,A., Solomentsev,V., Mukhina,T.,
+            Dentovskaya,S. and Fursov,M.
+  TITLE     No
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1701)
+  AUTHORS   Sizova,A., Kislichkina,A., Solomentsev,V., Mukhina,T.,
+            Dentovskaya,S. and Fursov,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-OCT-2024) Science Department, SRCAMB, Building 1,
+            Obolensk, Moscow region 142279, Russia
+COMMENT     The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: Unicycler v. 0.5.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 189.0x
+            Sequencing Technology  :: MGISeq-2000; Oxford Nanopore MinION
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 11/07/2024 08:02:15
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 6.8
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 4,051
+            CDSs (total)                      :: 3,936
+            Genes (coding)                    :: 3,875
+            CDSs (with protein)               :: 3,875
+            Genes (RNA)                       :: 115
+            rRNAs                             :: 8, 7, 7 (5S, 16S, 23S)
+            complete rRNAs                    :: 8, 7, 7 (5S, 16S, 23S)
+            tRNAs                             :: 80
+            ncRNAs                            :: 13
+            Pseudo Genes (total)              :: 61
+            CDSs (without protein)            :: 61
+            Pseudo Genes (ambiguous residues) :: 0 of 61
+            Pseudo Genes (frameshifted)       :: 32 of 61
+            Pseudo Genes (incomplete)         :: 34 of 61
+            Pseudo Genes (internal stop)      :: 8 of 61
+            Pseudo Genes (multiple problems)  :: 12 of 61
+            CRISPR Arrays                     :: 2
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1701
+                     /organism="Yersinia kristensenii"
+                     /mol_type="genomic DNA"
+                     /strain="SCPM-O-B-3981 (692)"
+                     /db_xref="taxon:28152"
+     gene            187..441
+                     /gene="xseB"
+                     /locus_tag="ACIOG1_14830"
+     CDS             187..441
+                     /gene="xseB"
+                     /locus_tag="ACIOG1_14830"
+                     /EC_number="3.1.11.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_012304509.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="XKH65065.1"
+                     /translation="MPKKAASPETKAASFETSLSELEQIVTRLESGELPLEEALNEFE
+                     RGVQLARIGQQTLLQAEQRVQVLLSDDVDAPLTPFTPDTE"
+     gene            446..1366
+                     /gene="ispA"
+                     /locus_tag="ACIOG1_14835"
+     CDS             446..1366
+                     /gene="ispA"
+                     /locus_tag="ACIOG1_14835"
+                     /EC_number="2.5.1.10"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_002208661.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology.
+                     GO_process: GO:0008299 - isoprenoid biosynthetic process
+                     [Evidence IEA]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="(2E,6E)-farnesyl diphosphate synthase"
+                     /protein_id="XKH65066.1"
+                     /translation="MSNTHSSVDFNQQLAAHQQRINQALLDYIAPLPFGSSDLVEAMR
+                     YGAVLGGKRLRPYLVYATGQMFGLSLTSLDAPAAAIECVHAYSLIHDDLPAMDDDDLR
+                     RGQPTCHVKFGEANAILAGDALQTLAFSILAEAPMPEVADKDRLSMIAELAYASGVAG
+                     MCGGQALDLEAEARQITLDELERIHRHKTGALIRAAVRLGALAAGAPGREALPLLDRY
+                     ANAIGLAFQVQDDILDVIGDTATIGKRQGSDQQHGKSTYPALLGLDCAKAKAMDLYQE
+                     AVSALNALSEQSYNIAPLQALACFIIERDN"
+     gene            1420..>1701
+                     /gene="dxs"
+                     /locus_tag="ACIOG1_14840"
+     CDS             1420..>1701
+                     /gene="dxs"
+                     /locus_tag="ACIOG1_14840"
+                     /EC_number="2.2.1.7"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_005167595.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology.
+                     GO_component: GO:0005737 - cytoplasm [Evidence IEA];
+                     GO_function: GO:0008661 - 1-deoxy-D-xylulose-5-phosphate
+                     synthase activity [Evidence IEA];
+                     GO_process: GO:0008615 - pyridoxine biosynthetic process
+                     [Evidence IEA];
+                     GO_process: GO:0009228 - thiamine biosynthetic process
+                     [Evidence IEA];
+                     GO_process: GO:0009240 - isopentenyl diphosphate
+                     biosynthetic process [Evidence IEA]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="1-deoxy-D-xylulose-5-phosphate synthase"
+                     /protein_id="XKH65067.1"
+                     /translation="MSIDIAKYPTLALAENPEELRMLPKESLPKLCDELRQYLLASVS
+                     RSSGHFASGLGVVELTVALHYVYNTPFDSLVWDVGHQAYPHKILTGRREQIGTIRQKD
+                     GLHPFPWRGESEYDVLSVGHSSTSISAGLGMAVAAEREGKGRRTVCVIGDGAITAGMA
+                     FEAMNHAGDIHSDMLVILNDNEMSISENVGGLNNHLAQLLSGKLYASLREGGKKAFSG
+                     LPPIKDLLKRTEEHLKGMVVPSTLFEELGFNYIGPVDGHDVQALTQTLKNMRSLKGPQ
+                     LLHIMTKKGKGYAPAEKDPIGWHAVPKFDPAAGTLPKSQGNLPTYSKIFGEWLCETAT
+                     KDSQLMAVTPAMREGSGMVRFSREYPQQYFDVAIAEQHAVTFAAGLAIGGYKPVVAIY
+                     STFLQRAYDQLIHDVAIQNLPVLFAIDRGGLVGADGQTHQGAFDLSFMRCIPNMVIMT
+                     PSDENECRQMLHTGYHHHGPAAVRYPRGNGTGVTLEPLEIMPMGKGIVRREGKKIAIL
+                     CFGTLLAQAQIVADNLNATLVDMRFVKPLDEELVLELAASHEVLVTVEENAIMGGAGS
+                     GVNELLMAKRQLVPVLNLGLPDHFVPQGEQDEMRAEFGLDADGIQRQIEAWLE"
+ORIGIN      
+        1 gtatatcact atatgatgcg ctgctgcgta ctaaaaaccg gacttaaacg tcacgatttc
+       61 cccttcatta tccgctagaa tagccggtaa taaacttttg acctgaagag ttgctctctg
+      121 taagcaggga gacgttacgc gccatcaagg ttacgtttca taaaaatacc gagtcgaata
+      181 aaaactatgc cgaaaaaagc cgcatcacct gaaaccaaag ccgccagttt tgagacatcg
+      241 ctcagcgaac tggaacaaat tgttactcgc ctggagtccg gcgagcttcc gctggaagag
+      301 gcgttaaatg agtttgagcg cggggtgcag ttagcacgta ttgggcagca aaccttgctg
+      361 caagctgagc aacgcgtgca agttctgttg agcgacgatg ttgatgcgcc attaacccct
+      421 ttcactccag atactgagta gccttatgtc taacactcac tcctcagtgg acttcaatca
+      481 gcagcttgcc gcgcaccagc agcgaatcaa ccaagctcta ttggattaca ttgcgccact
+      541 tccctttggc agcagtgatt tggttgaggc gatgcgctat ggtgccgtgc tgggtggtaa
+      601 gcggctgcgc ccttatttgg tttacgccac cggccagatg ttcggcctgt cgctgaccag
+      661 tttggatgcc cctgcggcgg caattgaatg tgtccatgct tattcattaa ttcatgatga
+      721 tttaccggcg atggatgacg atgatttgcg ccgtgggcaa cccacttgcc atgtgaagtt
+      781 tggtgaagcc aatgcgattt tggccggtga tgcattgcaa acactggcgt tttctatcct
+      841 ggcagaagct ccaatgcccg aggtagcaga taaagaccgg ctgtcgatga ttgccgaatt
+      901 agcctatgcc agcggtgttg ctggcatgtg tggcggtcag gcgttagatc tcgaagccga
+      961 agcgcgccaa ataacacttg atgagctgga acgtatccac cgccataaaa ccggtgcatt
+     1021 aattcgtgcc gccgttcgtc tcggcgcact ggcagcgggt gcccctgggc gcgaagcatt
+     1081 accattactt gaccgttatg ccaatgctat cggcctggcc tttcaggtac aggacgatat
+     1141 tttagatgtt atcggcgata ccgctacaat tggtaagcgc caagggtcag atcagcaaca
+     1201 cggaaaaagc acttatccgg cacttctggg gctagattgc gctaaagcca aagccatgga
+     1261 cctttatcag gaagccgtta gcgccctgaa tgcgctgtcg gagcaatcct ataacatagc
+     1321 gccactacag gcgttagcct gttttattat tgagcgtgat aattagaact atactggcag
+     1381 tccgtgaatg cctacttaaa cttttgatat gagcatcgaa tgagtattga tatagccaaa
+     1441 tacccgacat tggcacttgc ggaaaatcct gaagaactgc gcatgttgcc gaaagaaagt
+     1501 ctgccgaagt tatgtgatga actgcggcag tatttgcttg cctcagtcag ccgatccagt
+     1561 gggcattttg cttctgggtt aggcgtggtt gagctcactg tcgcgttgca ttacgtctac
+     1621 aatacgccgt ttgatagtct ggtgtgggac gttggtcatc aggcttatcc gcataaaata
+     1681 ttaaccggtc gccgcgagca g
+//
+

@@ -1,0 +1,120 @@
+LOCUS       gISPAPC                 1025 bp    DNA        linear       04-MAY-2025
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          complement(17..53)
+                     /organism="Pectobacterium carotovorum"
+                     /mol_type="genomic DNA"
+                     /strain="PCC27"
+                     /isolation_source="culture"
+                     /db_xref="taxon:554"
+                     /locus_tag="source:Pectobacterium carotovorum"
+                     /label="source:Pectobacterium carotovorum"
+                     /ApEinfo_label="source:Pectobacterium carotovorum"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+                     /ApEinfo_hidden
+     CDS             17..53
+                     /gene="xseB"
+                     /EC_number="3.1.11.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010282080.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id=XKS45703.1
+                     /translation=MPKKTEQPVSFESSLNELEKIVTRLESGELPLDDALNEFEHGIQL
+                     ARQGQQKLQQAEQRVQILLSDDPEAPLSPFTPDNDSL
+                     /locus_tag="ACI65L_001705"
+                     /label="ACI65L_001705"
+                     /ApEinfo_label="ACI65L_001705"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     gene            984..1009
+                     /gene="dxs"
+                     /locus_tag="ACI65L_001703"
+                     /label="ACI65L_001703"
+                     /ApEinfo_label="ACI65L_001703"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     source          complement(966..1009)
+                     /organism="Pectobacterium carotovorum"
+                     /mol_type="genomic DNA"
+                     /strain="PCC27"
+                     /isolation_source="culture"
+                     /db_xref="taxon:554"
+                     /locus_tag="source:Pectobacterium carotovorum(1)"
+                     /label="source:Pectobacterium carotovorum(1)"
+                     /ApEinfo_label="source:Pectobacterium carotovorum"
+                     /ApEinfo_fwdcolor="#00DF87"
+                     /ApEinfo_revcolor="#00DF87"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+                     /ApEinfo_hidden
+     gene            17..53
+                     /gene="xseB"
+                     /locus_tag="ACI65L_001705(1)"
+                     /label="ACI65L_001705(1)"
+                     /ApEinfo_label="ACI65L_001705"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             984..1009
+                     /gene="dxs"
+                     /EC_number="2.2.1.7"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010299084.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="1-deoxy-D-xylulose-5-phosphate synthase"
+                     /protein_id=XKS45701.1
+                     /translation=MSFDTAKYPTLALVETPDELRLLPKESLPKLCDELRQYLLDSVSR
+                     SSGHFASGLGTVELTVALHYVYNTPFDHLVWDVGHQAYPHKILTGRRERISTIRQKGG
+                     LHPFPWRDESEYDVLSVGHSSTSISAGLGMAVAAEREGKGRRTVCVIGDGAITAGMAF
+                     EAMNHAGDIKSDLLVVLNDNEMSISENVGALNNHLAQLLSGKLYASLREGGKKVLSGL
+                     PPIKELVKRTEEHLKGMVVPGTLFEELGFNYIGPVDGHDVQALAHTLKNMRNLKGPQL
+                     LHIMTKKGKGYAPAEQDPISWHAVPKFDPASGTLPKSKEGAQPTYSKIFGQWLQETAA
+                     KDSKLMAITPAMREGSGMVQFSRDYPQQYFDVAIAEQHAVTFAAGLAVGGYHPVVAIY
+                     STFLQRAYDQVIHDVAIQNLPVLFAIDRGGIVGADGQTHQGAFDLSFLRCIPNMIIMT
+                     PSDENECRQMLHTGYHYQKGPTAVRYPRGNGTGTALTPLSELPIGKGVVRRQGETIAI
+                     LNFGTLLQEAQAAAEKLNATLVDMRFVKPLDEALLEELAQSHSTFVTLEENAVMGGAG
+                     SGVNEFLMAKRLAVSVLNIGLPDVFIPQGSQEEIRADLGLDATGIERRITQWME
+                     /locus_tag="ACI65L_001703(1)"
+                     /label="ACI65L_001703(1)"
+                     /ApEinfo_label="ACI65L_001703"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+ORIGIN
+        1 agctaGGTCT CaTACTcgcc gctgtcaccg tttacgcCGG ATAacgactc gctATGACCG
+       61 ATTTCAGCAC GCAACTGAAT GCGCATTACC AACGCACTAA CCGGATGTTG GGGCATTTCA
+      121 TCGCCAGCCT CCCCTTTCAG AGTAGTCCAC TGGTCAATGC GATGGAGTAT GGCTCACTCT
+      181 TAGGAGGCAA ACGCCTGCGT CCGTTTCTGG TTTATACTAC TGGTGAACTG TTTGGCATAT
+      241 CGTTAGAGAG TCTGGATGCC CCTGCTGCGG CAGTCGAATG TATCCATGCT TATTCATTGA
+      301 TTCATGACGA TCTGCCAGCA ATGGACGACG ACGATTTACG CCGTGGACAG CCAACCTGCC
+      361 ACATCAAGTT TGGTGAAGCT AATGCCATTC TGGCGGGAGA TGCACTGCAA ACGCTGGCAT
+      421 TCTCCATTCT GGCCGACGCG CCAATGCCGC AagtctcTGA CCGCGATCGA CTGGCGATGA
+      481 TTTCAGAATT GGCTCACGCC AGTGGCGTAG CAGGCATGTG CGGTGGTCAG GCTTTCGATC
+      541 TGGAAGCGGA GGGCCATCAG GTCGATCTGG CAGCGTTAGA GCGGATTCAC CGCCACAAAA
+      601 CCGGTGCACT GATTCGCGCC GCTGTCCGAC TAGGCGCACT GGCAGCCGGT GAAACAGGCC
+      661 GCGCCGCTTT GCCCCATCTG GATCGCTACG CTAACGCGAT TGGGCTCGCT TTTCAGGTTC
+      721 AAGACGATAT TCTCGATGTT GTTGGCGACA GCGCGACAAC AGGCAAACGT CAGGGTGCAG
+      781 ACCAGCAGTT AGGTAAAAGC ACCTATCCCA GCTTACTGGG GTTAGATAAC GCACGAAAAA
+      841 AAGCACAGGA GCTCTATCAG GAATCACTGG CATCGCTGGA CGATCTCGTC GCATCCAGCC
+      901 CGATTCCCCT GAATATTGCC CCACTACAAG CGCTGGCGAA TTTCATCGTT GAACGCGATA
+      961 AGTAAttacc taatgagtct ctaatgagtt ttgataccgc gaaatacccG CTTaGAGACC
+     1021 gccat     
+//

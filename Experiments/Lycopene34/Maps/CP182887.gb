@@ -1,0 +1,206 @@
+LOCUS       CP182887                1601 bp    DNA     linear   BCT 04-MAR-2025
+DEFINITION  Klebsiella pneumoniae strain LA86 chromosome, complete genome.
+ACCESSION   CP182887 REGION: 1099500..1101100
+VERSION     CP182887.1
+DBLINK      BioProject: PRJNA1150192
+            BioSample: SAMN43273683
+KEYWORDS    .
+SOURCE      Klebsiella pneumoniae
+  ORGANISM  Klebsiella pneumoniae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae; Klebsiella/Raoultella group;
+            Klebsiella; Klebsiella pneumoniae complex.
+REFERENCE   1  (bases 1 to 1601)
+  AUTHORS   Tran,T.T.D.
+  TITLE     Liver abscess
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1601)
+  AUTHORS   Tran,T.T.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-FEB-2025) Institute of Microbiology and Immunology,
+            National Yang Ming Chiao Tung University, Linong St, Taipei 112,
+            Taiwan
+COMMENT     The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: Flye v. Nov-23
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 57.0x
+            Sequencing Technology  :: Oxford Nanopore MinION
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 02/26/2025 09:48:25
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 6.9
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 5,681
+            CDSs (total)                      :: 5,563
+            Genes (coding)                    :: 5,279
+            CDSs (with protein)               :: 5,279
+            Genes (RNA)                       :: 118
+            rRNAs                             :: 9, 8, 8 (5S, 16S, 23S)
+            complete rRNAs                    :: 9, 8, 8 (5S, 16S, 23S)
+            tRNAs                             :: 83
+            ncRNAs                            :: 10
+            Pseudo Genes (total)              :: 284
+            CDSs (without protein)            :: 284
+            Pseudo Genes (ambiguous residues) :: 0 of 284
+            Pseudo Genes (frameshifted)       :: 176 of 284
+            Pseudo Genes (incomplete)         :: 125 of 284
+            Pseudo Genes (internal stop)      :: 34 of 284
+            Pseudo Genes (multiple problems)  :: 47 of 284
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1601
+                     /organism="Klebsiella pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="LA86"
+                     /isolation_source="liver abscess"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:573"
+                     /geo_loc_name="Taiwan"
+                     /lat_lon="25.04115344 N 121.51916650 E"
+                     /collection_date="2007"
+                     /collected_by="Yu-Tsung Huang"
+     gene            complement(<1..57)
+                     /gene="thiI"
+                     /locus_tag="ACDJ24_10835"
+     CDS             complement(<1..57)
+                     /gene="thiI"
+                     /locus_tag="ACDJ24_10835"
+                     /EC_number="2.8.1.4"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_014168857.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology.
+                     GO_function: GO:0140741 - tRNA-uracil-4 sulfurtransferase
+                     activity [Evidence IEA];
+                     GO_process: GO:0006400 - tRNA modification [Evidence IEA];
+                     GO_process: GO:0009228 - thiamine biosynthetic process
+                     [Evidence IEA]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tRNA uracil 4-sulfurtransferase ThiI"
+                     /protein_id="XPJ74801.1"
+                     /translation="MKFIIKLFPEITIKSQSVRLRFIKILTGNIRNVLKNYDETLAVV
+                     RHWDHIEVRAKDENQRPAIRDALTRIPGIHHILEVEDVPFTSLHDIFEQTLPLWREAL
+                     EGKTFCVRVKRRGKHEFTSIEVERYVGGGLNQHIETARVKLTDPDVTVNLEIENDRLL
+                     LVKGRYEGIGGFPIGTQEDVLSLISGGFDSGVSSYMLMRRGCRVHYCFFNLGGAAHEI
+                     GVRQVAHYLWNRFGSSHRVRFVAINFEPVVGEILEKVDDGQMGVVLKRMMVRAASKVA
+                     ERYGVQALVTGEALGQVSSQTLTNLRLIDNVSDTLILRPLISHDKEHIIDLAREIGTE
+                     DFARTMPEYCGVISKSPTVKAVKAKIEAEEEHFDFSILDKVVEEASNIDIREIAQQTE
+                     ETVVEVETVTGFGANDAILDIRSIDEQEDKPLKVEGVEVVSLPFYKLSTKFGDLDQSK
+                     TWLLWCERGVMSRLQALYLREQGFSNVKVYRP"
+     gene            239..481
+                     /gene="xseB"
+                     /locus_tag="ACDJ24_10840"
+     CDS             239..481
+                     /gene="xseB"
+                     /locus_tag="ACDJ24_10840"
+                     /EC_number="3.1.11.6"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_005225414.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="exodeoxyribonuclease VII small subunit"
+                     /protein_id="XPJ74802.1"
+                     /translation="MPKKNEAPASFETALGELEQIVNRLESGDLPLEEALSEFERGVQ
+                     LARQGQSQLQKAEQRVQILLADSEDSPTTPFTPDAE"
+     gene            482..1381
+                     /gene="ispA"
+                     /locus_tag="ACDJ24_10845"
+     CDS             482..1381
+                     /gene="ispA"
+                     /locus_tag="ACDJ24_10845"
+                     /EC_number="2.5.1.10"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_005225413.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology.
+                     GO_process: GO:0008299 - isoprenoid biosynthetic process
+                     [Evidence IEA]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="(2E,6E)-farnesyl diphosphate synthase"
+                     /protein_id="XPJ74803.1"
+                     /translation="MDFPQQLQACVEQANEALRRFIAPQPFQNTPLVEAMHYGALLGG
+                     KRLRPFLVYATGEMFGVCRTTLDAPAAAVECIHAYSLMHDDLPAMDDDDLRRGLPTCH
+                     IKFGEANAILAGDALQTLAFSILSDAPMVDVPDRDRLAMVSELAQASGVAGMCGGQAL
+                     DLQAEGQQVDLQALERIHRHKTGALIRAAVRMGALSAGERGRAALPALDRYAENIGLA
+                     FQVQDDILDVVGDTATLGKRQGADQQLGKSTYPALLGLEQARKKAHDLIADARRSLDE
+                     LAAQSLDTSALEALANYIIQRDK"
+     gene            1400..>1601
+                     /gene="dxs"
+                     /locus_tag="ACDJ24_10850"
+     CDS             1400..>1601
+                     /gene="dxs"
+                     /locus_tag="ACDJ24_10850"
+                     /EC_number="2.2.1.7"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:YP_005225412.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology.
+                     GO_component: GO:0005737 - cytoplasm [Evidence IEA];
+                     GO_function: GO:0008661 - 1-deoxy-D-xylulose-5-phosphate
+                     synthase activity [Evidence IEA];
+                     GO_process: GO:0008615 - pyridoxine biosynthetic process
+                     [Evidence IEA];
+                     GO_process: GO:0009228 - thiamine biosynthetic process
+                     [Evidence IEA];
+                     GO_process: GO:0009240 - isopentenyl diphosphate
+                     biosynthetic process [Evidence IEA]"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="1-deoxy-D-xylulose-5-phosphate synthase"
+                     /protein_id="XPJ74804.1"
+                     /translation="MSFDIAKYPTLALVDSTQELRLLPKESLPKLCDELRRYLLDSVS
+                     RSSGHFASGLGTVELTVALHYVYNTPFDRLIWDVGHQAYPHKILTGRRDKIGTIRQKG
+                     GLHPFPWRGESEYDVLSVGHSSTSISAGIGVAIAAAKEDKQRRAVCVIGDGAITAGMA
+                     FEAMNHAGDIKPDLLVVLNDNEMSISENVGALNNHLAQLLSGKLYSTLREGGKKVFSG
+                     VPPIKELLKRTEEHIKGMVVPGTLFEELGFNYIGPVDGHDVLGLVSTLKNMRDLKGPQ
+                     FLHIMTKKGRGYEPAEKDPITFHAVPKFDHTSGVLPKSSGGLPSYSKIFGDWLCETAA
+                     KDNKLMAITPAMREGSGMVEFSKKFPDRYFDVAIAEQHAVTFAAGLAIGDYKPVVAIY
+                     STFLQRAYDQVIHDVAIQKLPVLFAIDRAGIVGADGQTHQGAFDLSFLRCIPDMVVMT
+                     PSDENECRQMLYTGYHYSDGPCAVRYPRGSGTGATLEPLASLPIGKGVVKRQGEKIAI
+                     LNFGTLLPEAAAVADKLNATLVDMRFVKPLDTALILQLAGEHDALVTLEENAIMGGAG
+                     SGVNEVLMAHRRAVPVLNIGLPDYFIPQGTQEEIRADLGLDAAGIEAKIRDWLA"
+ORIGIN      
+        1 ccgcacagat tggcttttga tggtgatttc cgggaacaat ttaatgataa acttcatagc
+       61 gacaatagtt cgttggcaag cccgacgggg ctataagcaa aagttgtaaa gcagcgcaca
+      121 ccggtgcctg catcctgggc gcggagtata tcaccattgc gcgttatttg cttacacgcg
+      181 tgacttcgtt accatacccg gtattgccgt cgcgacataa caagagtcta cattcactat
+      241 gccaaagaaa aatgaggccc cggccagctt tgaaactgct ctgggcgaac tggagcagat
+      301 cgttaaccgt ctggaaagcg gcgatttgcc gttagaggaa gcgctaagcg aatttgagcg
+      361 cggcgtacag ctggcgcgcc aggggcaaag tcagctgcag aaggccgaac agcgcgtgca
+      421 gatcctgctg gcggatagtg aagattcccc gaccacgcct tttacgccgg acgctgaata
+      481 aatggatttc ccgcaacaat tgcaggcctg tgtggaacag gcaaacgaag cgctgcgccg
+      541 tttcatcgcc ccgcagccct ttcagaacac tccgctggtg gaagcgatgc attatggcgc
+      601 attgttaggc ggtaaacgcc tgcgtccctt ccttgtctac gccaccggcg agatgttcgg
+      661 cgtgtgccgt accacgctgg atgctcctgc cgcggcggtc gaatgcattc atgcctactc
+      721 cctgatgcat gatgatttgc cggcgatgga tgatgacgat ctgcgccgcg gcctgccgac
+      781 ctgccatatt aaatttggcg aagccaacgc aattcttgcg ggagatgccc tgcaaacgct
+      841 ggcgttctct atactgagtg atgcgccgat ggtcgacgtt cctgaccggg accggctggc
+      901 gatggtttcc gaactggcgc aggccagcgg cgtggcgggc atgtgcggcg gccaggcgct
+      961 ggatctgcag gccgagggac agcaggttga tttacaggcg ctggagcgta tccatcgcca
+     1021 caaaacgggc gccctgatcc gcgccgccgt ccggatggga gccctgagcg ccggcgaacg
+     1081 cggccgcgcc gccctgcccg cgctggatcg ctatgcggaa aatatcggtc ttgccttcca
+     1141 ggtccaggat gacattctcg acgtggtagg ggatactgcg acccttggca aacgtcaggg
+     1201 tgccgaccag caattgggta aaagcaccta tcccgccctc ctgggtcttg agcaagcccg
+     1261 gaagaaagcg cacgacctga tcgctgatgc ccgccggtcg ttagatgagc tggccgcaca
+     1321 atctctggat acttcggcac tggaagcgct cgcgaattac attattcagc gcgataaata
+     1381 aacaaaaaat gagtctctga tgagttttga tattgccaaa tacccgaccc tggcgctggt
+     1441 agattccacc caggagttgc gcctgttgcc aaaagagagc ctgccgaagc tatgtgatga
+     1501 gctgcggcgc tatctactgg acagcgtcag ccgttccagc ggtcactttg cctctggcct
+     1561 cggcacggtg gaactgaccg tggcgctgca ctacgtgtat a
+//
+
