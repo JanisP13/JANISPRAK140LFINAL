@@ -1,6 +1,0 @@
-Oligo kpF agctaGGTCTCaTACTcggtattgccgtcgcgacataac
-Oligo kpR atggcGGTCTCtAAGCccagggtcgggtatttggc
-Oligo backF gttgcGGTCTCaGCTTGATGACGGCAGCCCTACTA
-Oligo backR cattgGGTCTCtAGTACCAGTCAATTTCCGAGTAGG
-Oligo ykF agctaGGTCTCaTACTccctttcactccagatactg
-Oligo ykR atggcGGTCTCtAAGCcacggactgccagtatagtt
