@@ -1,13 +1,6 @@
 PCR backF backR pLYC72I back72I
-GoldenGate pTpDXS back72 BsaI ggpc
+GoldenGate gISPAPC back72 BsaI ggpc
 Transform ggpc Mach1 Amp 37 pLYC76pc
 
-PCR ykF ykR CP173221 pcryk
-PCR backF backR pLYC72I back72I
-GoldenGate pcryk back72I BsaI ggyk
-Transform ggyk Mach1 Amp 37 pLYCyk
-
-Oligo ykF agctaGGTCTCaTACTccctttcactccagatactg
-Oligo ykR atggcGGTCTCtAAGCcacggactgccagtatagtt
 Oligo backF gttgcGGTCTCaGCTTGATGACGGCAGCCCTACTA
 Oligo backR cattgGGTCTCtAGTACCAGTCAATTTCCGAGTAGG
