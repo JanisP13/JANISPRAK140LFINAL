@@ -51,12 +51,19 @@ Eight initial orthologs were chosen that had from 70% to 80% sequence similarity
 - _Buttiauxella brennerae_
 
 A phylogenetic tree was made using species names and NCBI, and four of the least related, with each coming from different families, but all from the order _Enterobacterales_, were chosen.
-- _Pectobacterium carotovorum_: Contained internal BsaI site, so removeSite in C6 tools was used to modify.
+- _Pectobacterium carotovorum_: Contained internal BsaI site, so removeSite in C6 tools was used to create codon-modified version.
 - _Yersinia kristensenii_: No internal BsaI site, so PCR was done directly from genomic DNA
 - _Pantoea agglomerans_: No internal BsaI site, so PCR was done directly from genomic DNA
-- _Klebsiella pneumoniae_: Contained internal BsaI site, so removeSite in C6 tools was used to modify.
+- _Klebsiella pneumoniae_: Contained internal BsaI site, so removeSite in C6 tools was used to create codon-modified version.
 
-All orthologs were inserted into plasmid pLYC72I using Golden Gate assembly, and them were transformed into Mach1 strain of _E. coli_.
+All orthologs were inserted into plasmid pLYC72I using Golden Gate assembly, and then were transformed into Mach1 strain of _E. coli_.
+
+**<h2>Constructs</h2>**
+- pLYCpc: _P. carotovorum_ ispA, inserted via gBlock
+- pLYCyk: _Y. Kristensenii_ ispA, inserted via PCR
+- pLYCpa: _P. agglomerans_ ispA, inserted via gBlock
+- pLYCkp: _K. pneumoniae_ ispA, inserted via PCR
+
 
 while Ohnuma, Shin-ichi, et al. showed that, _Bacillus stearothermophilus_ FPPS synthase with mutations at fifth before FARM were thermo stable at high temps, the range of temps in these orgs could mean their FPPSs are better adapted to those temperatures, due to other mutations. could be worth looking into for biotechnological purposes.
 
